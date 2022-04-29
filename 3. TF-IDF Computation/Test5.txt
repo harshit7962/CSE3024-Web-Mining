@@ -1,0 +1,3 @@
+Web content mining is the application of extracting useful information from the content of the 
+web documents. Web content consist of several types of data – text, image, audio, video etc. 
+Content data is the group of facts that a web page is designed.

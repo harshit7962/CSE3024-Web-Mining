@@ -1,0 +1,2 @@
+Web Mining is the process of Data Mining techniques to automatically discover and extract
+information from Web documents and services.

@@ -1,0 +1,2 @@
+Web mining can be broadly divided into three different types of techniques of
+mining: Web Content Mining, Web Structure Mining, and Web Usage Mining.

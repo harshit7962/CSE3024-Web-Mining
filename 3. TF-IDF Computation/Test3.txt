@@ -1,0 +1,2 @@
+Web mining helps to improve the power of web search engine by classifying the web 
+documents and identifying the web pages.

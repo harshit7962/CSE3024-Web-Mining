@@ -1,0 +1,2 @@
+The main purpose of web mining is discovering useful information from the World-Wide Web
+and its usage patterns.

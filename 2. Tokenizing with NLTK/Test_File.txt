@@ -1,0 +1,5 @@
+Hello World,
+This subject is CSE3024 Web Mining in G2 Slot.
+I am Harshit Mishra and my registration number is 19BCE0799.
+I am a third year undergraduate student at Vellore Institute of Technology, Vellore.
+This is a test file for tokenizing words in python using inbuilt nltk libraries.
